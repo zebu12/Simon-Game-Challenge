@@ -54,7 +54,7 @@ function checkAnswer(currentLevel){
     }
     
 }
-
+// create a function
 function nextSequence() {
 
   userClickedPattern = [];
